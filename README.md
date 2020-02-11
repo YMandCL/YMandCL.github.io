@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![https://github.com/YMandCL/YMandCL.github.io/blob/master/Finding%20the%20Algorithms.PNG](https://github.com/YMandCL/YMandCL.github.io/blob/master/Finding%20the%20Algorithms.PNG)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
