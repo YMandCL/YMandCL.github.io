@@ -4,6 +4,7 @@ It is currently under construction as I figure out how to link my Github probjec
 
 I'm hoping to have interactive charts and graphs up and running by March.
 
+![Bots](https://github.com/YMandCL/YMandCL.github.io/blob/master/Finding%20the%20Algorithms.PNG?raw=true)
 
 ### Markdown
 
