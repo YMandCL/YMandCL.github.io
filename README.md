@@ -9,6 +9,6 @@ She is wicked smart.
 ![Bots](https://github.com/YMandCL/YMandCL.github.io/blob/master/aiden.PNG?raw=true)
 
 
-Artwork ![Bots!](aiden.PNG "Tester")
+Artwork ![aiden](aiden.PNG "Tester")
 
 
