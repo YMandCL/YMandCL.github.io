@@ -8,7 +8,6 @@ She is wicked smart.
 
 
 
-
-Artwork ![aiden](aiden.PNG "Tester")
+https://github.com/YMandCL/YMandCL.github.io/blob/master/aiden.png
 
 
