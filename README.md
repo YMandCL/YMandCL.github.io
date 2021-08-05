@@ -8,6 +8,6 @@ She is wicked smart.
 
 
 
-![test](https://github.com/YMandCL/YMandCL.github.io/blob/master/aiden.png)
+![test](https://github.com/YMandCL/YMandCL.github.io/blob/master/aiden.png?raw=true)
 
 
