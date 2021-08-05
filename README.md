@@ -9,7 +9,6 @@ She is wicked smart.
 ![Bots](https://github.com/YMandCL/YMandCL.github.io/blob/master/aiden.PNG?raw=true)
 
 
-
-[Link](url) and ![Bots!](Finding the Algorithms.PNG "Tester")
+Artwork ![Bots!](aiden.PNG "Tester")
 
 
